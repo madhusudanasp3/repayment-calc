@@ -1,4 +1,4 @@
-# refinancing-calc
+# repayment-calc
 
 ## Project setup
 
